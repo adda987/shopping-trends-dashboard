@@ -20,7 +20,7 @@ Aplicația procesează seturi de date în format CSV referitoare la tendințele 
 
 ---
 
-## 📦 Instalare și Rulare Locală
+##  Instalare și Rulare Locală
 Dacă doriți să rulați proiectul pe propriul calculator:
 
 1. Clonați repository-ul.
