@@ -30,3 +30,5 @@ Dacă doriți să rulați proiectul pe propriul calculator:
 3. Lansați aplicația în browser:
       ```bash
    streamlit run dashboard.py
+
+Andreea S.
